@@ -1,13 +1,13 @@
 admins:
 - 2926253308
 group_modes:
-  '151823352': whitelist
-  '348774756': whitelist
+  '123456789': whitelist
+  '123456789': whitelist
 group_user_blacklist: {}
 group_user_whitelist:
-  '348774756':
-  - 2926253308
+  '123456789':
+  - 123456789
 group_whitelist:
-- 348774756
-- 151823352
+- 123456789
+- 123456789
 private_whitelist: []
