@@ -14,9 +14,11 @@
 
 首先在插件目录plugins\AccessControl\config.yaml文件
 修改管理员qq如下方
+```
 admins:
 - 123456789
 其中123456789修改为自己QQ号
+```
 
 
 
