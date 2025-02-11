@@ -1,6 +1,17 @@
 # AccessControl 权限控制插件
 
 这是一个用于管理QQ机器人访问权限的插件。它提供了完整的权限管理功能，包括私聊权限控制、群聊权限控制，以及群聊中的黑白名单模式。
+建议使用/ac 帮助 查看帮助
+
+## 安装
+
+配置完成 [LangBot](https://github.com/RockChinQ/LangBot) 主程序后使用管理员账号向机器人发送命令即可安装：
+
+```
+!plugin get https://github.com/sanxianxiaohuntun/AccessControl
+```
+或查看详细的[插件安装说明](https://docs.langbot.app/plugin/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
+
 
 ## 功能特性
 
@@ -12,7 +23,7 @@
 - 群成员黑名单管理
 - 使用YAML配置文件持久化存储
 - 完整的命令行管理接口
-
+- /ac 帮助 查看帮助
 ## 配置文件说明
 
 配置文件位于 `plugins/AccessControl/config.yaml`，格式如下：
