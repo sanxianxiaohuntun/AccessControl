@@ -12,6 +12,14 @@
 ```
 或查看详细的[插件安装说明](https://docs.langbot.app/plugin/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
 
+首先在插件目录plugins\AccessControl\config.yaml文件
+修改管理员qq如下方
+admins:
+- 123456789
+其中123456789修改为自己QQ号
+
+
+
 
 ## 功能特性
 
